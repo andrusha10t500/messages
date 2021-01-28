@@ -1,0 +1,9 @@
+c:\users\golikga68\documents\visual studio 2012\Projects\messages\messages\bin\Debug\messages.exe.config
+c:\users\golikga68\documents\visual studio 2012\Projects\messages\messages\obj\Debug\messages.csprojResolveAssemblyReference.cache
+c:\users\golikga68\documents\visual studio 2012\Projects\messages\messages\obj\Debug\messages.Form1.resources
+c:\users\golikga68\documents\visual studio 2012\Projects\messages\messages\obj\Debug\messages.Properties.Resources.resources
+c:\users\golikga68\documents\visual studio 2012\Projects\messages\messages\obj\Debug\messages.csproj.GenerateResource.Cache
+C:\Users\golikga68\documents\visual studio 2012\Projects\messages\messages\bin\Debug\messages.exe
+C:\Users\golikga68\documents\visual studio 2012\Projects\messages\messages\bin\Debug\messages.pdb
+C:\Users\golikga68\documents\visual studio 2012\Projects\messages\messages\obj\Debug\messages.exe
+C:\Users\golikga68\documents\visual studio 2012\Projects\messages\messages\obj\Debug\messages.pdb
